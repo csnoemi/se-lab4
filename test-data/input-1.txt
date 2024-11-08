@@ -1,0 +1,9 @@
+# A soron következő a primary lenne, de az elfogyott, ezért a secondary-ből lövünk
+# Eggyel többet lövünk, mint amennyi rakétánk van.
+# Először primary rakétával lövünk
+# Adunk egy kis 'cooling time-ot', ezért felváltva lövünk.
+GT4500,1,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

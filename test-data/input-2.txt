@@ -1,0 +1,6 @@
+# A soron következő a secondary lenne, de az elfogyott, ezért a primary-ből lövünk
+GT4500,3,0,1,0 
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
